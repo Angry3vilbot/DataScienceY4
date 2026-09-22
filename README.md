@@ -1,1 +1,2 @@
 # Data Science
+The dataset used is the [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset), maintained by [Fronkon Games](https://github.com/FronkonGames). In order to use the .csv version of the dataset, you have to convert the .json version into .csv first, because the .csv in the dataset link is not created correctly [(an example of how it's done)](https://www.kaggle.com/code/adrian124/converting-from-json-to-csv-format-steam-games).
